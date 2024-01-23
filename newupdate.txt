@@ -1,3 +1,5 @@
 add profile fitur
 
 kerjakan bagian footer
+
+footer sudah selesai
