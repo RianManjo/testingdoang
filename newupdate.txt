@@ -1,1 +1,1 @@
-fix bug navbar
+add profile fitur
